@@ -1,0 +1,3 @@
+declare module "*.scss";
+declare module "*.css";
+declare module 'pdfjs-dist/webpack.mjs' { export * from 'pdfjs-dist' }
